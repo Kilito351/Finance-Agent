@@ -1,0 +1,2 @@
+"""Finance Agent backend package."""
+

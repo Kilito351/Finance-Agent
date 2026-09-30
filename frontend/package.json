@@ -1,0 +1,21 @@
+{
+  "name": "finance-agent-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "5.2.3",
+    "vite": "6.2.4",
+    "vue": "3.5.13"
+  },
+  "devDependencies": {
+    "typescript": "5.8.2",
+    "vue-tsc": "2.2.8"
+  }
+}
+
